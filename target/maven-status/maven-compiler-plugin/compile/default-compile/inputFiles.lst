@@ -1,0 +1,7 @@
+/Users/felix/Phyxels-BE/src/main/java/com/phyxels/phyxels/PhyxelsApplication.java
+/Users/felix/Phyxels-BE/src/main/java/com/phyxels/phyxels/config/CouchDbConfig.java
+/Users/felix/Phyxels-BE/src/main/java/com/phyxels/phyxels/config/WebConfig.java
+/Users/felix/Phyxels-BE/src/main/java/com/phyxels/phyxels/controller/SaveStateController.java
+/Users/felix/Phyxels-BE/src/main/java/com/phyxels/phyxels/model/SaveState.java
+/Users/felix/Phyxels-BE/src/main/java/com/phyxels/phyxels/repository/SaveStateRepository.java
+/Users/felix/Phyxels-BE/src/main/java/com/phyxels/phyxels/repository/SaveStateRepositoryImpl.java

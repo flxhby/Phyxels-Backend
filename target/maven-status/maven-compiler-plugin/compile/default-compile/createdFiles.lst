@@ -1,0 +1,7 @@
+com/phyxels/phyxels/repository/SaveStateRepository.class
+com/phyxels/phyxels/PhyxelsApplication.class
+com/phyxels/phyxels/config/WebConfig.class
+com/phyxels/phyxels/config/CouchDbConfig.class
+com/phyxels/phyxels/repository/SaveStateRepositoryImpl.class
+com/phyxels/phyxels/model/SaveState.class
+com/phyxels/phyxels/controller/SaveStateController.class
